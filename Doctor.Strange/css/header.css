@@ -1,5 +1,5 @@
 header {
-  height: 90px;
+  height: 80px;
   display: flex;
   justify-content: space-between;
 }
@@ -11,6 +11,7 @@ header {
 .links-container {
   display: flex;
   gap: 1.5rem;
+  font-size: 12.5px;
 }
 
 .links-container a {
