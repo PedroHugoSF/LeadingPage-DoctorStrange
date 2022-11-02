@@ -1,4 +1,9 @@
 footer {
-  background-color: rgb(220, 243, 14);
-  height: 21px;
+  height: 1px;
+}
+
+p {
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
 }
