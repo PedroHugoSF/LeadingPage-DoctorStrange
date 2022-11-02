@@ -1,0 +1,25 @@
+header {
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.marvel-studio {
+  width: 10rem;
+}
+
+.links-container {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.links-container a {
+  text-shadow: 2.2px 2.2px 2.2px #000;
+}
+
+.links-container a:hover {
+  color: #e62721;
+  padding-right: 1px;
+  font-family: Arial, Helvetica, sans-serif;
+  transition: all 0.8s;
+}
